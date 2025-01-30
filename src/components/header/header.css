@@ -1,8 +1,0 @@
-header{width: 100%; height: auto; margin: auto; padding: 30px 0px;}
-header .headerSearch{width: 100%; height: 60px; border: 1px solid #bce3c9; padding: 10px 20px; cursor: pointer;}
-header .headerSearch .selectDropWrapper{width: 200px; height: 50px; font-size: 16px; font-weight: 500; position: relative; top: 11px;}
-header .headerSearch .selectDropWrapper:after{content: ''; width: 1px; height: 30px; background: rgba(0,0,0,0.2); position: absolute; top: 0px;
-right: 0px;}
-header .headerSearch .search{width: 82%; padding-left: 10px;}
-header .headerSearch .search input{width: 95%; height: 50px; border:0px; outline: none !important; font-size: 18px;margin-right: 10px;}
-header .headerSearch .search .searchIcon{position: absolute; top: 55px; margin: 0px; height: 25px; margin-top: -5px; opacity: 0.5;}
